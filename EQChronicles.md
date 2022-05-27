@@ -2,11 +2,11 @@
 
 ## A New Beginning - Yelinak Server
 
-**May 25, 2022**- We rolled our toons, spent a moment in various newbie yards and then ventured to meet in the Commonlands tunnel.
+**May 25, 2022** - We rolled our toons, spent a moment in various newbie yards and then ventured to meet in the Commonlands tunnel.
 Through the evening we took liberal advantage of the soul binding point in the tunnel to get back in the action as we all levelled to 5.  
 This culminated in a multi-pull which took out Yazz, then Ichantu and Shoeless.  With the rest trying to hold against the final mob or two, 
 Shoe made it back just in time to throw heals at Khadson to alternate from standing and purple.  
-He bounced back and forth 6 times before the mob was turned and the group was victorious.
+He bounced back and forth 6 times before the mob was turned and the group was victorious‼️
 
 
 ## The Only Good Orc ...
