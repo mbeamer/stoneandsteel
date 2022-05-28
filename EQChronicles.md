@@ -22,7 +22,11 @@ We discussed Crocs on the east side of Oasis as tomorrows gathering spot.
 
 ## Making Short Work of the Croc Highway
 
-**May 27, 2022** - So many crocs!  We crushed, stomped and acted casual when Lockjaw strolled past.
+**May 27, 2022** - Through the day, Yazz had a chance to work up some tradeskills and provide Khadson a set of leathers which are harder for the crocs to chew through.
+Khadson was fiddling around with Bell's controls and tried his best to feed Yazz's habit by providing furs and meats.
+
+Once we all got setup, the action on the highway commenced; so many crocs!  We crushed, stomped and acted casual when Lockjaw strolled past.
+
 So many that we all completed this achievement:
 
 > This is a Skill Slayer achievement.
