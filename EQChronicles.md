@@ -35,7 +35,7 @@ So many that we all completed this achievement:
 > Reward:
 > Your Banestrike ability now works on: Alligators, Basilisks, and Crocodiles
 
-The Croc Highway is a lovely place from level 13-16, especially if you've brought enough of a group to handle the sheer quantity of mobs available.
+The Croc Highway is a lovely place from level 10-16, especially if you've brought enough of a group to handle the sheer quantity of mobs available.
 
 We'd have stopped 45 minutes earlier, but couldn't quite settle on our next grind while the xp bonus for Memorial Day weekend was on.  We've settled on Upper Guk with Cazic Thules as a relatively close fall back.
 
