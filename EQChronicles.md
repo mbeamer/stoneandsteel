@@ -8,7 +8,6 @@ This culminated in a multi-pull which took out Yazz, then Ichantu and Shoeless. 
 Shoe made it back just in time to throw heals at Khadson to alternate from standing and purple.  
 He bounced back and forth 6 times before the mob was turned and the group was victorious‼️
 
-
 ## The Only Good Orc ...
 
 **May 26, 2022** - Everyone used their newly available Origin spells to pick up all their useful spells and get back to the meeting place in the Commonlands tunnel.
@@ -18,4 +17,22 @@ Moving on to Dervish the next hill over we collected a complete set of 12 rings;
 Finally we moved back to North Ro.  Wouldn't you know it, it was entirely too easy.  To South Ro we went.
 Here we nestled in the center of 4 dervish camps where we set to a pulling frenzy!  By the end of the evening, Teggito was level 10 and the rest of us right on his heels.
 We discussed Crocs on the east side of Oasis as tomorrows gathering spot.
+
 ![Fellowship at Orc 2 in Commonlands](https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/Orc-2-camp.png)
+
+## Making Short Work of the Croc Highway
+
+**May 27, 2022** - So many crocs!  We crushed, stomped and acted casual when Lockjaw strolled past.
+So many that we all completed this achievement:
+
+> This is a Skill Slayer achievement.
+> "Just remember your reptilian A-B-C's: Alligators, Basilisks, and Crocodiles!
+>
+> Reward:
+> Your Banestrike ability now works on: Alligators, Basilisks, and Crocodiles
+
+The Croc Highway is a lovely place from level 13-16, especially if you've brought enough of a group to handle the sheer quantity of mobs available.
+
+We'd have stopped 45 minutes earlier, but couldn't quite settle on our next grind while the xp bonus for Memorial Day weekend was on.  We've settled on Upper Guk with Cazic Thules as a relatively close fall back.
+
+![Fellowship at Crocs in South Ro](https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/SouthRo-Crocs.png)
