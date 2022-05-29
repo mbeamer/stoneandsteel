@@ -40,3 +40,27 @@ The Croc Highway is a lovely place from level 10-16, especially if you've brough
 We'd have stopped 45 minutes earlier, but couldn't quite settle on our next grind while the xp bonus for Memorial Day weekend was on.  We've settled on Upper Guk with Cazic Thules as a relatively close fall back.
 
 ![Fellowship at Crocs in South Ro](https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/SouthRo-Crocs.png)
+
+## What . A . Session
+
+** May 28, 2022** - It has been a long time since we marathoned like that!  And it ended with about 10 levels in the books for everyone.
+
+<img align="right" width="100" height="100" src="https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/BraceleOfWovenGrass.png">
+
+It began in Upper Guk where we crawled to the Scryer camp.  This camp was just the right difficulty for us and we were able to extend our reach quite a bit as time passed until, after collecting three of these for our Int casters, were pulled up roots and looked for a new challenge.
+
+<img align="right" width="100" height="100" src="https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/CazicMaze-Cramped.png">
+
+That next challenge was in the maze of Cazic Thule.  It was a tight squeeze for use, but again we found a good level range of baddies to exterminate while we were there.  No loot, but plenty of exp!
+
+<img align="left" width="100" height="100" src="https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/CazicMaze-Cramped.png">
+
+As we levelled we unlocked skills that would define how the group is able to carve up content.  Teggito and Khadson unlocking their halmark Feign Death which allowed us to break the Thrown Room camp in Cazic Thule later in the day.
+
+The new group composition seems to have all the right parts and with adventures that net us loot, levels and experiences to use our toons well together the  sky is the limit.
+
+This time around we are also aware of tools like EQ Log Parser where we can see those sweet numbers ... and crank them up!
+
+|Heal Parse|DPS Parse|
+|:-:|:-:|
+|![Heal Parse From Cazic TR](https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/28-5-2022-HealParse.png)|![DPS Parse From Cazic TR](https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/28-5-2022-DPSParse.png)|
