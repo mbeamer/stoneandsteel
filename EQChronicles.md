@@ -1,16 +1,14 @@
 # Chronicles from the Best Fellowship
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 ## What . A . Session
 
 **May 28, 2022** - It has been a long time since we marathoned like that!  With the help of an 8 hour XP potion provided by Shoeless, it ended with about 10 levels in the books for everyone.
 
-|It began in Upper Guk where we crawled to the Scryer camp.  This camp was just the right difficulty for us and we were able to extend our reach quite a bit as time passed until, after collecting three of these for our Int casters, we pulled up roots and looked for a new challenge.|<img align="right" width="200" src="https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/BraceleOfWovenGrass.png">|
+<img align="right" width="200" src="https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/BraceleOfWovenGrass.png">
+
+It began in Upper Guk where we crawled to the Scryer camp.  This camp was just the right difficulty for us and we were able to extend our reach quite a bit as time passed until, after collecting three of these for our INT casters, we pulled up roots and looked for a new challenge.
+
+When we were ready to leave the Scryer, the 6 pick zones of Upper Guk all showed our next likely destinations as overrun with other players so we made a journey.<br><br><br><br>
 
 <img align="right" width="400" src="https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/CazicMaze-Cramped.png">
 
