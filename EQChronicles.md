@@ -53,7 +53,7 @@ It began in Upper Guk where we crawled to the Scryer camp.  This camp was just t
 
 And that challenge was in the maze of Cazic Thule, where it was a tight squeeze!  But again we found a good level range of baddies to exterminate to pass the time.  No loot, but plenty of exp!
 
-<img align="left" width="200"src="https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/FeignDeathSuccess.png">
+<img align="left" width="200" src="https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/FeignDeathSuccess.png">
 
 As we levelled we unlocked skills that would define how the group is able to carve up content.  Teggito and Khadson unlocking their halmark Feign Death which allowed us to break the Thrown Room camp in Cazic Thule later in the day.
 
