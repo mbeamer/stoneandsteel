@@ -1,5 +1,15 @@
 # Chronicles from the Best Fellowship
 
+## And We Found A Friend
+
+**May 29,2022** - Our INT casters have been noticing the lack of store-buyable spells, so Yazz, Shoeless and Teggilo spent time hunting Gargoyles for their eyes. About 600pp later and Ichantu is on her way to learning research.
+
+Later in the day all we convened in Mistmoore in order to get further components for Ichantu.  Mistmoore is altogether very out of the way, a bit higher than we might normally choose to hunt and full of trains at the same time.  So it took a while to settle in.
+
+As we were settled and fighting our fights, a lone cleric bowled into us with a mob in toe.  We finished ours off and engaged in complaining about the impertinence of fighting a mob in our camp.  Looking closer we determined both that this Dwarf was a Cleric (hmm, useful!) and that he is part of the guild we joined up with!  Well, that was enough for Shoeless to throw heals at him and Yazz to nuke down his mob.
+
+He agreed to join the group and we got to know Pancake a bit for the rest of the evening.  We'll see if he's around again tomorrow! 
+
 ## What . A . Session
 
 **May 28, 2022** - It has been a long time since we marathoned like that!  With the help of an 8 hour XP potion provided by Shoeless, it ended with about 10 levels in the books for everyone.
