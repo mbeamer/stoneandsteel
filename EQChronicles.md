@@ -1,5 +1,23 @@
 # Chronicles from the Best Fellowship
 
+## Just Ding Already
+
+**May 30,2022** - Needing Researched spells in the low 20s for a new server is rough business.  And the irony is that while aligning ourselves to that goal, our casters have levelled past the need for them.
+
+Before discussing it, we reconvened in Mistmoore for more of the same as last night.  Our little spot base beset on both sides by groups which left slim pickings for us.  After not too long we decided to move along and see if Paw was finally the fit we were looking for.
+
+A Group port from Shoeless to the North Karana Druid Ring was very welcome.  A "quick" jaunt, half way across South Karana and we were at Paw.  We started with a crawl but the difficulty never ratcheted up to a comfortable level, so we headed to the Jail which started as red to everyone.
+
+<img align="right" width="200" src="https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/Npc_a_lteth_val_scribe.png">
+
+Our first encounter with the Scribe let us know just how scary this place can be.  AE Mez?  Yuck!  A pickzone that closed, a dead Shadow Knight and some creativity got us back in action.  Necromancers are so full of tricks!  (even if the cash shoppe was involved :) )
+
+Back on track and it was still dicey.  Shoe perished a couple further times.  Bell learned how to target the MA's target's target to throw a heal on someone other than Khadson.
+
+Let's not forget that all the nice loot is being snapped up as upgrades ... we've set a plan to revisit the area tomorrow!
+
+
+
 ## And We Found A Friend
 
 **May 29,2022** - Our INT casters have been noticing the lack of store-buyable spells, so Yazz, Shoeless and Teggilo spent time hunting Gargoyles for their eyes. About 600pp later and Ichantu is on her way to learning research.
