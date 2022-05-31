@@ -1,5 +1,13 @@
 # Chronicles from the Best Fellowship
 
+## Retraction and Correction
+
+**May 31,2022** - Let it be known that this periodical has been contacted regarding defaming remarks about an Enchanter, "Mezing themselves".  
+
+To correct the situation, the original article has been amended and we wish to apologize at any Enchanters who may have been slighted due to our impudence in suggesting they'd Mez themselves, rather than informing the group of a simple situation where the Enchanter may be out of commission briefly due to a Mez effect unrelated to their own spell casting.
+
+<img align="right" width="200" src="https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/Ichantu-May31-2022.png">
+
 ## Just Ding Already
 
 **May 30,2022** - Needing Researched spells in the low 20s for a new server is rough business.  And the irony is that while aligning ourselves to that goal, our casters have levelled past the need for them (for now).
@@ -12,7 +20,7 @@ A Group port from Shoeless to the North Karana Druid Ring was very welcome.  A "
 
 Our first encounter with the Scribe let us know just how scary this place can be.  AE Mez?  Yuck!  A pickzone that closed, a dead Shadow Knight and some creativity got us back in action.  Necromancers are so full of tricks!  (even if the cash shoppe was involved :) )
 
-Back on track and it was still dicey.  Shoe perished a couple further times, Ichantu let's us know when she mezed herself - that we can't do anything about - and Bell learned how to target the MA's target's target to throw a heal on someone other than Khadson.
+Back on track and it was still dicey.  Shoe perished a couple further times, Ichantu let's us know when she ~~mezed herself~~ was mezed - that we yet can't do anything about - and Bell learned how to target the MA's target's target to throw a heal on someone other than Khadson.
 
 Let's not forget that all the loot is nice and being snapped up as upgrades ... we've set a plan to revisit the area tomorrow!
 
