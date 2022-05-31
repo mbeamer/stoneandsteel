@@ -8,7 +8,7 @@
 
 To correct the situation, the original article has been amended and we wish to apologize at any Enchanters who may have been slighted due to our impudence in suggesting they'd Mez themselves, rather than informing the group of a simple situation where the Enchanter may be out of commission briefly due to a Mez effect unrelated to their own spell casting.
 
-<img align="left" width="50" src="https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/HeartForEnchanters.png">
+<img align="left" width="50" src="https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/HeartForEnchanters.jpg">
 
 Nothing but love for Enchanters!
 
