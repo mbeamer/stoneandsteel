@@ -14,7 +14,7 @@ Our first encounter with the Scribe let us know just how scary this place can be
 
 Back on track and it was still dicey.  Shoe perished a couple further times, Ichantu let's us know when she mezed herself - that we can't do anything about - and Bell learned how to target the MA's target's target to throw a heal on someone other than Khadson.
 
-Let's not forget that all the nice loot is being snapped up as upgrades ... we've set a plan to revisit the area tomorrow!
+Let's not forget that all the loot is nice and being snapped up as upgrades ... we've set a plan to revisit the area tomorrow!
 
 
 
