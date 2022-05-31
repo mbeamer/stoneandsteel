@@ -2,11 +2,12 @@
 
 ## Retraction and Correction
 
+<img align="right" width="100" src="https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/Ichantu-May31-2022.png">
+
 **May 31,2022** - Let it be known that this periodical has been contacted regarding defaming remarks about an Enchanter, "Mezing themselves".  
 
 To correct the situation, the original article has been amended and we wish to apologize at any Enchanters who may have been slighted due to our impudence in suggesting they'd Mez themselves, rather than informing the group of a simple situation where the Enchanter may be out of commission briefly due to a Mez effect unrelated to their own spell casting.
 
-<img align="right" width="200" src="https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/Ichantu-May31-2022.png">
 
 ## Just Ding Already
 
