@@ -1,8 +1,32 @@
 # Chronicles from the Best Fellowship
 
+## Ohh, Shiny
+
+**May 31, 2022** - I'll start with the frustration that `/assist Khadson` does not work to give Khadson's target like `/assist main` does with Khadson marked as Main Assist.  
+
+That being the case, Bell's macros don't work while out of group and since folks don't want to stand around for her to buff once the macros work, I'm expecting to see little of her in group settings.
+
+It was a short evening as we got a late start and Khadric had to run off to pick up a childe from work.  What time we did get in was the 5 of us in Split Paw cracking level 30 for everyone.  We've also taken to hanging out in the Guild Discord for voice comm to see if we can't make friends.
+
+Tonight we had SouldBright drop in and bend our ears.  He went so far as to bestow a Shining Metalic Rob on Ichantu!  Both useful now, and as a component in her epic later... a most thoughtful gift.
+
+We also heard tell the guild has swelled to 800 members :O  Will be interesting to see what raids look like.
+
+## Retraction and Correction
+
+<img align="right" width="100" src="https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/Ichantu-May31-2022.png">
+
+**May 31,2022** - Let it be known that this periodical has been contacted regarding defaming remarks about an Enchanter, "Mezing themselves".  
+
+To correct the situation, the original article has been amended and we wish to apologize at any Enchanters who may have been slighted due to our impudence in suggesting they'd Mez themselves, rather than informing the group of a simple situation where the Enchanter may be out of commission briefly due to a Mez effect unrelated to their own spell casting.
+
+<img align="left" width="50" src="https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/HeartForEnchanters.jpg">
+
+I may have been Charmed into making this post.
+
 ## Just Ding Already
 
-**May 30,2022** - Needing Researched spells in the low 20s for a new server is rough business.  And the irony is that while aligning ourselves to that goal, our casters have levelled past the need for them (for now).
+**May 30, 2022** - Needing Researched spells in the low 20s for a new server is rough business.  And the irony is that while aligning ourselves to that goal, our casters have levelled past the need for them (for now).
 
 <img align="right" width="200" src="https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/Npc_a_lteth_val_scribe.png">
 
@@ -12,14 +36,14 @@ A Group port from Shoeless to the North Karana Druid Ring was very welcome.  A "
 
 Our first encounter with the Scribe let us know just how scary this place can be.  AE Mez?  Yuck!  A pickzone that closed, a dead Shadow Knight and some creativity got us back in action.  Necromancers are so full of tricks!  (even if the cash shoppe was involved :) )
 
-Back on track and it was still dicey.  Shoe perished a couple further times, Ichantu let's us know when she was mezed - that we yet can't do anything about - and Bell learned how to target the MA's target's target to throw a heal on someone other than Khadson.
+Back on track and it was still dicey.  Shoe perished a couple further times, Ichantu let's us know when she ~~mezed herself~~ was mezed - that we yet can't do anything about - and Bell learned how to target the MA's target's target to throw a heal on someone other than Khadson.
 
 Let's not forget that all the loot is nice and being snapped up as upgrades ... we've set a plan to revisit the area tomorrow!
 
 
 ## And We Found A Friend
 
-**May 29,2022** - Our INT casters have been noticing the lack of store-buyable spells, so Yazz, Shoeless and Teggilo spent time hunting Gargoyles for their eyes. About 600pp later and Ichantu is on her way to learning research.
+**May 29, 2022** - Our INT casters have been noticing the lack of store-buyable spells, so Yazz, Shoeless and Teggilo spent time hunting Gargoyles for their eyes. About 600pp later and Ichantu is on her way to learning research.
 
 Later in the day all we convened in Mistmoore in order to get further components for Ichantu.  Mistmoore is altogether very out of the way, a bit higher than we might normally choose to hunt and full of trains at the same time.  So it took a while to settle in.
 
