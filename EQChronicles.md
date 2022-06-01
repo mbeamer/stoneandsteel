@@ -6,9 +6,9 @@
 
 That being the case, Bell's macros don't work while out of group and since folks don't want to stand around for her to buff once the macros work, I'm expecting to see little of her in group settings.
 
-It was a short evening as we got a late start and Khadric had to run off to pick up a childe from work.  What time we did get in was the 5 of us in Split Paw cracking level 30 for everyone.  We've also taken to hanging out in the Guild Discord for voice comm to see if we can't make friends.
+It was a short evening as we got a late start and Khadric had to run off to pick up a child from work.  What time we did get in was the 5 of us in Split Paw cracking level 30 for everyone.  
 
-Tonight we had SouldBright drop in and bend our ears.  He went so far as to bestow a Shining Metalic Rob on Ichantu!  Both useful now, and as a component in her epic later... a most thoughtful gift.
+We've also taken to hanging out in the Guild Discord for voice comm to see if we can't make friends.  Tonight we had SouldBright drop in and bend our ears.  He went so far as to bestow a Shining Metalic Rob on Ichantu!  Both useful now, and as a component in her epic later... a most thoughtful gift.
 
 We also heard tell the guild has swelled to 800 members :O  Will be interesting to see what raids look like.
 
