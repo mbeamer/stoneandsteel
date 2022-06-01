@@ -4,7 +4,7 @@
 
 **May 31, 2022** - I'll start with the frustration that `/assist Khadson` does not work to give Khadson's target like `/assist main` does with Khadson marked as Main Assist.  
 
-That being the case, Bell's macros don't work while out of group and since folks don't want to stand around for her to buff once the macros work, I'm expecting to see little of her in group settings.
+That being the case, Bell's macros don't work while group setup isn't complete, and since folks don't want to stand around for her to buff once the macros work, I'm expecting to see little of her in group settings.
 
 It was a short evening as we got a late start and Khadric had to run off to pick up a child from work.  What time we did get in was the 5 of us in Split Paw cracking level 30 for everyone.  
 
