@@ -10,7 +10,7 @@ It was a short evening as we got a late start and Khadric had to run off to pick
 
 We've also taken to hanging out in the Guild Discord for voice comm to see if we can't make friends.  Tonight we had SouldBright drop in and bend our ears.  He went so far as to bestow a Shining Metalic Robe on Ichantu!  Both useful now, and as a component in her epic later... a most thoughtful gift.
 
-We also heard tell the guild has swelled to 800 members :O  Will be interesting to see what raids look like.
+We also heard tell the guild has swelled to 800 members :open_mouth:  Will be interesting to see what raids look like.
 
 ## Retraction and Correction
 
