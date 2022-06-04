@@ -1,5 +1,19 @@
 # Chronicles from the Best Fellowship
 
+## Ring of the Ancients
+
+**June 4,2022** - Gear acquisition is becoming the name of the game as we level into the 30s.  Getting Ring of the Ancients for everyone to complete JBoots is what we settled on as a focus.
+
+The island is packed, hotly contesting the Ancient Cyclops (AC).  We keep grinding with the first ring going to Khadson in an 'oops' assignment.
+
+Second evening at the island and Yazz suggests Khadson stick with a Lower Guk group which netted him a Dark Reever which much improves his aggro holding ability.
+
+<img align="right" width="200" src="https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/GhoulLord.png">
+
+Through Friday Yazz crafted all sorts of upgraded gear for folks so that by Friday evening we are facing blue-yellow cons on the island where we kept it clear but the AC never spawned on our side!
+
+Khadson was lucky enough on his first Ghoul Lord kill to win a Skull Shaped Barbute!
+
 ## Ohh, Shiny
 
 **May 31, 2022** - I'll start with the frustration that `/assist Khadson` does not work to give Khadson's target like `/assist main` does with Khadson marked as Main Assist.  
