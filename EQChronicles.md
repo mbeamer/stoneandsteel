@@ -4,13 +4,13 @@
 
 **June 4, 2022** - Today was the day!  While on Ring of the Ancients was picked up earlier in the week, today we acquired the other 4 for our group.  We can finally leave the Ocean of Tears knowing that our work is done.
 
-<img align="right" width="200" src="https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/jboots.jpg">
+<img align="right" width="150" src="https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/jboots.jpg">
 
 A little bit of extra effort picking up a rapier and then locating Hasten himself to complete the quest for Journeyman's Boots!  Farming Gargoyles eyes on the undead island made finding the necessary 325pp quite straight forward.
 
 Yazz picked his surname along the way, Yazz Matazz, which pairs well with his "Big Badaboom" emote.  Watch for him when you need something burned down.
 
-<img align="right" width="200" src="https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/DEIllusion.png">
+<img align="right" width="150" src="https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/DEIllusion.png">
 
 We are now all upper 30s to lower 40s in level and ready for a new challenge, like illusion masks from the Assassin which Khadson found for himself.  Being a Shadow Knight is very freeing after being a Cleric.  All the self invisibilities and if you stumble upon an open camp you can actually ponder whether you could solo it.  The answer being, 'yes, yes you can'.
 
