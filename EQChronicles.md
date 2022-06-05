@@ -1,15 +1,29 @@
 # Chronicles from the Best Fellowship
 
+## Hasten Bootstrutter
+
+**June 4, 2022** - Today was the day!  While on Ring of the Ancients was picked up earlier in the week, today we acquired the other 4 for our group.  We can finally leave the Ocean of Tears knowing that our work is done.
+
+<img align="right" width="200" src="https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/jboots.jpg">
+
+A little bit of extra effort picking up a rapier and then locating Hasten himself to complete the quest for Journeyman's Boots!  Farming Gargoyles eyes on the undead island made finding the necessary 325pp quite straight forward.
+
+Yazz picked his surname along the way, Yazz Matazz, which pairs well with his "Big Badaboom" emote.  Watch for him when you need something burned down.
+
+<img align="right" width="200" src="https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/DEIllusion.png">
+
+We are now all upper 30s to lower 40s in level and ready for a new challenge, like illusion masks from the Assassin which Khadson found for himself.  Being a Shadow Knight is very freeing after being a Cleric.  All the self invisibilities and if you stumble upon an open camp you can actually ponder whether you could solo it.  The answer being, 'yes, yes you can'.
+
+
 ## Ring of the Ancients
 
-**June 4,2022** - Gear acquisition is becoming the name of the game as we level into the 30s.  Getting Ring of the Ancients for everyone to complete JBoots is what we settled on as a focus.
+**June 3,2022** - Gear acquisition is becoming the name of the game as we level into the 30s.  Getting Ring of the Ancients for everyone to complete JBoots is what we settled on as a focus.
 
 <img align="right" width="200" src="https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/GhoulLord.png">
 
 The island is packed, hotly contesting the Ancient Cyclops (AC).  We keep grinding with the first ring going to Khadson in an 'oops' assignment.
 
 Second evening at the island and Yazz suggests Khadson stick with a Lower Guk group which netted him a Dark Reever which much improves his aggro holding ability.
-
 
 Through Friday Yazz crafted all sorts of upgraded gear for folks so that by Friday evening we are facing blue-yellow cons on the island where we kept it clear but the AC never spawned on our side!
 
