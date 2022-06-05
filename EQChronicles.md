@@ -12,7 +12,9 @@ Yazz picked his surname along the way, Yazz Matazz, which pairs well with his "B
 
 <img align="right" width="150" src="https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/DEIllusion.png">
 
-We are now all upper 30s to lower 40s in level and ready for a new challenge, like illusion masks from the Assassin which Khadson found for himself.  Being a Shadow Knight is very freeing after being a Cleric.  All the self invisibilities and if you stumble upon an open camp you can actually ponder whether you could solo it.  The answer being, 'yes, yes you can'.
+We are now all upper 30s to lower 40s in level and ready for a new challenge, like illusion masks from the Assassin which Khadson found for himself.  
+
+Being a Shadow Knight is very freeing after being a Cleric.  All the self invisibilities and if you stumble upon an open camp you can actually ponder whether you could solo it.  The answer being, 'yes, yes you can'.
 
 
 ## Ring of the Ancients
