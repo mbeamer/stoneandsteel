@@ -1,8 +1,18 @@
 # Chronicles from the Best Fellowship
 
+## Lower Guk
+
+**June 5, 2022** - While the group wasn't at full strength the Assassin camp was targeted and we came away with enough masks to make folks happy!  
+
+We eventually moved to the Executioner, Sage, Savant, Cavalier camp which we out powered pretty easily, so Frenzied and Sentinel were pulled to us as well.
+
+There were a bunch of items picked up, but the Savant was stingy with his hat!
+
+We also ended up inviting a cleric along with us.  The alt of "Bonr" named Bluebies.  The idea of waiting for a Complete Heal to land 10 seconds later has pushed me to create a Gina trigger for Khadson to see the casts!
+
 ## Hasten Bootstrutter
 
-**June 4, 2022** - Today was the day!  While on Ring of the Ancients was picked up earlier in the week, today we acquired the other 4 for our group.  We can finally leave the Ocean of Tears knowing that our work is done.
+**June 4, 2022** - Today was the day!  While one Ring of the Ancients was picked up earlier in the week, today we acquired the other 4 for our group.  We can finally leave the Ocean of Tears knowing that our work is done.
 
 <img align="right" width="150" src="https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/jboots.jpg">
 
