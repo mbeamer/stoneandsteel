@@ -1,5 +1,18 @@
 # Chronicles from the Best Fellowship
 
+
+## Live side grind
+
+**June 7, 2022** - Emboldened by our successes last night we headed for the King room + Castle for some xp grind.  It worked out pretty well save for one incident.
+
+We got some pants, but that's the extent of it ... stingy mobs tonight!
+
+## Live side, without our Enchanter
+
+**June 6, 2022** - It was a slow crawl but we made it to the King area.  Khadson and Teggito worked to break the room and we did it, then we kept the room until the end of the night.
+
+It would have been entirely improved with Ichantu!
+
 ## Lower Guk
 
 **June 5, 2022** - While the group wasn't at full strength the Assassin camp was targeted and we came away with enough masks to make folks happy!  
