@@ -1,69 +1,69 @@
 # Crimson Tempest
 
 # Leader
-Risla
+Risla			<br/>
 
 # Officers
-Panth
-Phancy
+Panth           <br/>
+Phancy          <br/>
 
-# Scrubs
-Aesclepious
-Aimpoint
-Anucrabriem
-Availer
-Carblis
-Centis
-Chocster
-Cleaver
-Colodor
-Crathsor
-Dabreeze
-Deckers
-Delich
-Destruct
-Diecast
-Dray
-Durth
-Elgato
-Galarius
-Gashar
-Ghrymm
-Gingadin
-Gorruk
-Grimtek
-Irenia
-Jaia
-Jalelorf
-Kegwel
-Korha
-Krango
-Leeboi
-Lendiwen
-Maui
-Midasa
-Moonshyne
-Morulak
-Muji
-Myythra
-Nasti
-Pickter
-Pipez
-Pwedge
-Ramitrov
-Relliance
-Rhyshilr
-Rulle
-Sapranno
-Sequoiaa
-Shadowstrum
-Shreds
-Smokedge
-Soall
-Tenor
-Tsolaa
-Uuldawen
-Vilforn
-Waine
-Xendu
-Zarzac
+# Scrubs        <br/>
+Aesclepious     <br/>
+Aimpoint        <br/>
+Anucrabriem     <br/>
+Availer         <br/>
+Carblis         <br/>
+Centis          <br/>
+Chocster        <br/>
+Cleaver         <br/>
+Colodor         <br/>
+Crathsor        <br/>
+Dabreeze        <br/>
+Deckers         <br/>
+Delich          <br/>
+Destruct        <br/>
+Diecast         <br/>
+Dray            <br/>
+Durth           <br/>
+Elgato          <br/>
+Galarius        <br/>
+Gashar          <br/>
+Ghrymm          <br/>
+Gingadin        <br/>
+Gorruk          <br/>
+Grimtek         <br/>
+Irenia          <br/>
+Jaia            <br/>
+Jalelorf        <br/>
+Kegwel          <br/>
+Korha           <br/>
+Krango          <br/>
+Leeboi          <br/>
+Lendiwen        <br/>
+Maui            <br/>
+Midasa          <br/>
+Moonshyne       <br/>
+Morulak         <br/>
+Muji            <br/>
+Myythra         <br/>
+Nasti           <br/>
+Pickter         <br/>
+Pipez           <br/>
+Pwedge          <br/>
+Ramitrov        <br/>
+Relliance       <br/>
+Rhyshilr        <br/>
+Rulle           <br/>
+Sapranno        <br/>
+Sequoiaa        <br/>
+Shadowstrum     <br/>
+Shreds          <br/>
+Smokedge        <br/>
+Soall           <br/>
+Tenor           <br/>
+Tsolaa          <br/>
+Uuldawen        <br/>
+Vilforn         <br/>
+Waine           <br/>
+Xendu           <br/>
+Zarzac          <br/>

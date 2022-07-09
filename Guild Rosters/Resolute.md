@@ -1,163 +1,161 @@
 # Resolute
 
-# Officers
-
 # Members by Class
 #  Bard
-Watsonius
-Pazazz
-Newmoon
-Brumans
-Icon
-Toner
-Juvia
-Diva
-Crymea
-Tlberries
+Watsonius       <br/>
+Pazazz          <br/>
+Newmoon         <br/>
+Brumans         <br/>
+Icon            <br/>
+Toner           <br/>
+Juvia           <br/>
+Diva            <br/>
+Crymea          <br/>
+Tlberries       <br/>
 #  Beastlord
-Sisinak
-Goodkitty
-Kazzue
-Wubonk
-Catashe
-Madmanlizard
-Zenzu
+Sisinak         <br/>
+Goodkitty       <br/>
+Kazzue          <br/>
+Wubonk          <br/>
+Catashe         <br/>
+Madmanlizard    <br/>
+Zenzu           <br/>
 #  Berserker
-Zanazerk
-Aexsplat
-Kalazerk
-Rovell
-Zerkzu
-Wakk
-Rajaah
+Zanazerk        <br/>
+Aexsplat        <br/>
+Kalazerk        <br/>
+Rovell          <br/>
+Zerkzu          <br/>
+Wakk            <br/>
+Rajaah          <br/>
 #  Cleric
-Kalrie
-Oberan
-Qalin
-Kegwel
-Camber
-Khadric
-Sofy
-Lahrie
-Naedyin
-Sera
+Kalrie          <br/>
+Oberan          <br/>
+Qalin           <br/>
+Kegwel          <br/>
+Camber          <br/>
+Khadric         <br/>
+Sofy            <br/>
+Lahrie          <br/>
+Naedyin         <br/>
+Sera            <br/>
 #  Druid
-Shoeless
-Sisu
-Draoithe
-Drewadin
-Elathin
-Alluvin
-Sunaru
-Nilwein
-Cuethbert
-Forever
+Shoeless         <br/>
+Sisu             <br/>
+Draoithe         <br/>
+Drewadin         <br/>
+Elathin          <br/>
+Alluvin          <br/>
+Sunaru           <br/>
+Nilwein          <br/>
+Cuethbert        <br/>
+Forever          <br/>
 #  Enchanter
-Buddi
-Ichantu
-Apothis
-Aenday
-Nahnah
-Jinsi
-Gorko
-Valerderea
-Lytte
-Skandalous
+Buddi            <br/>
+Ichantu          <br/>
+Apothis          <br/>
+Aenday           <br/>
+Nahnah           <br/>
+Jinsi            <br/>
+Gorko            <br/>
+Valerderea       <br/>
+Lytte            <br/>
+Skandalous       <br/>
 #  Magician
-Banchi
-Azazel
-Luciane
-Lacore
-Treymon
-Trixzie
-Bakora
-Zigfried
-Sarabella
-Gnomore
+Banchi           <br/>
+Azazel           <br/>
+Luciane          <br/>
+Lacore           <br/>
+Treymon          <br/>
+Trixzie          <br/>
+Bakora           <br/>
+Zigfried         <br/>
+Sarabella        <br/>
+Gnomore          <br/>
 #  Monk
-Dythan
-Punchis
-Juicebox
-Elderlygray
-Brady
-Zertex
-Vorne
-Jenzu
-Nanaya
-Rebo
+Dythan           <br/>
+Punchis          <br/>
+Juicebox         <br/>
+Elderlygray      <br/>
+Brady            <br/>
+Zertex           <br/>
+Vorne            <br/>
+Jenzu            <br/>
+Nanaya           <br/>
+Rebo             <br/>
 #  Necromancer
-Ythera
-Kkares
-Unfair
-Gameshard
-Kintharr
-Lorthor
-Terrorem
+Ythera           <br/>
+Kkares           <br/>
+Unfair           <br/>
+Gameshard        <br/>
+Kintharr         <br/>
+Lorthor          <br/>
+Terrorem         <br/>
 #  Paladin
-Yeowow
-Aethelred
-Cyrris
-Balard
-Soltaka
-Jeffy
-Forgoth
+Yeowow           <br/>
+Aethelred        <br/>
+Cyrris           <br/>
+Balard           <br/>
+Soltaka          <br/>
+Jeffy            <br/>
+Forgoth          <br/>
 #  Ranger
-Raytheon
-Demetri
-Lezhur
-Morwenna
-Songlei
-Ganar
-Mayumi
-Shortrange
-Rathor
-Nolrog
+Raytheon         <br/>
+Demetri          <br/>
+Lezhur           <br/>
+Morwenna         <br/>
+Songlei          <br/>
+Ganar            <br/>
+Mayumi           <br/>
+Shortrange       <br/>
+Rathor           <br/>
+Nolrog           <br/>
 #  Rogue
-Seiffil
-Naphtali
-Hoopey
-Ponak
-Cantari
-Elemince
-Shayos
-Sylica
-Froogle
-Rencor
+Seiffil          <br/>
+Naphtali         <br/>
+Hoopey           <br/>
+Ponak            <br/>
+Cantari          <br/>
+Elemince         <br/>
+Shayos           <br/>
+Sylica           <br/>
+Froogle          <br/>
+Rencor           <br/>
 #  Shadow Knight
-Soulslayer
-Undr
-Maelvek
-Zathander
-Ragejaw
-Plica
-Spazu
-Achievements
-Roau
-Xarhier
+Soulslayer       <br/>
+Undr             <br/>
+Maelvek          <br/>
+Zathander        <br/>
+Ragejaw          <br/>
+Plica            <br/>
+Spazu            <br/>
+Achievements     <br/>
+Roau             <br/>
+Xarhier          <br/>
 #  Shaman
-Ambyrdawn
-Kanamori
-Jerkin
-Natsuna
-Sythrak
-Airez
-Puma
-Trakendal
-Pazu
+Ambyrdawn        <br/>
+Kanamori         <br/>
+Jerkin           <br/>
+Natsuna          <br/>
+Sythrak          <br/>
+Airez            <br/>
+Puma             <br/>
+Trakendal        <br/>
+Pazu             <br/>
 #  Warrior
-Ragak
-Yety
-Gixustrat
-Luuk
-Zlam
-Aggronaut
-Brosa
-Lenny
-Maenn
-Giles
+Ragak            <br/>
+Yety             <br/>
+Gixustrat        <br/>
+Luuk             <br/>
+Zlam             <br/>
+Aggronaut        <br/>
+Brosa            <br/>
+Lenny            <br/>
+Maenn            <br/>
+Giles            <br/>
 #  Wizard
-Tallenhof
-Tegellan
-Fdiine
-Ulrin
-Reseil
+Tallenhof        <br/>
+Tegellan         <br/>
+Fdiine           <br/>
+Ulrin            <br/>
+Reseil           <br/>
