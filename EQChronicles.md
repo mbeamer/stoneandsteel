@@ -2,17 +2,17 @@
 
 ## /disband
 
-**July 13, 2022** - In the week leading up to Kunark we have been grinding the harder to find items of original.  
+**July 13, 2022** - In the week leading up to Kunark we have been grinding the harder to find items of Original EQ.
 
-After seeing 40+ Placeholders, Lord Begurgal popped and Bildo picked up his final preloot item for Cleric epic.  We moved to the hole and looked for Ratman Guard who spawned just as we were looking to wrap up for the night and a Dusty Tome dropped for Khadson.
+After seeing 40+ Placeholders, Lord Begurgal popped and Bildo picked up his final preloot item for Cleric epic.  We moved to the Hole and looked for Ratman Guard who spawned just as we were looking to wrap up for the night and a Dusty Tome dropped for Khadson.
 
 While in the Hole, we also found an Idol of the Underking for Bildo so that he and Shoeless are both set.
 
-Each of us has items which require raids and are rare in those settings to boot.  The chaotic nature of the One Last Time, the guild which had the best raid schedule for us means we haven't distinguished ourselves in their eyes when items need to Loot Council.
+Each of us has items which require raids and are rare in those settings to boot.  The chaotic nature of the One Last Time, the guild which had the best raid schedule for us at launch means we haven't distinguished ourselves in their eyes when items need to Loot Council (I.E. no trade epic items).
 
 Tonight that proved too much for Yazz and Shoeless, so they dropped guild.
 
-Being assigned items from a bunch of folks we met two months ago has trumped fellowship stability.  What will come next?
+Being assigned items from a bunch of folks we met two months ago has trumped fellowship stability.  What comes next?
 
 <img width="850" src="https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/SolBRockSpider.jpg">
 
