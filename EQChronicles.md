@@ -14,7 +14,9 @@ Tonight that proved too much for Yazz and Shoeless, so they dropped guild.
 
 Being assigned items from a bunch of folks we met two months ago has trumped fellowship stability.  What will come next?
 
-<img width="850" src="https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/FellowshipClassic.jpg">
+<img width="850" src="https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/SolBRockSpider.jpg">
+
+<img width="700" src="https://github.com/mbeamer/stoneandsteel/blob/master/EQ%20screenshots/Yelinak/UndeadCastle.jpg">
 
 ## Live side grind
 
