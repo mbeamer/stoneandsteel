@@ -1,0 +1,56 @@
+>> Name << 	  	Guild Note 	Rank 	Race 	Adventuring 	Crafting 	Diplomacy 	Leadership 	Recruits 	Dungeons 	Meetings 	Crafting 	Roleplay 	Slayings 	Tributes 	Dueling 	Stories 	Grudges 	Buildings 	Donations 	Guilded
+Ahzu 	  	(Turyion's alt.) 	Clansman 	Gnome 	Sorcerer 	10 	  	  	Diplomat 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	Mar. 2003
+Anine 	  	(Anique's alt.) 	Clanswoman 	Dwarf 	Sorcerer 	11 	Tailor 	  	Diplomat 	  	  	  	  	1 	  	  	  	  	  	  	  	  	  	  	  	Jun. 2002
+Anique 	  	  	Clanswoman 	Dwarf 	Cleric 	31 	  	  	Diplomat 	  	  	  	1 	1 	  	  	  	  	  	  	  	  	  	  	  	Jun. 2002
+Anvyll 	  	  	Clansman 	Dwarf 	Cleric 	34 	  	  	Diplomat 	  	  	  	6 	1 	  	  	  	9 	  	13 	1 	  	  	  	  	Oct. 1999
+Baldaran12 	  	  	Clansman 	Dwarf 	Cleric 	33 	  	  	Diplomat 	  	  	  	  	  	  	  	  	4 	  	  	  	  	  	  	  	Feb. 2002
+Baltusrol 	  	  	Clansman 	Dwarf 	Paladin 	24 	  	  	Diplomat 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	Sep. 1999
+Barzuln Trollslayer 	  	  	Clansman 	Dwarf 	Dread Knight 	34 	  	  	Diplomat 	  	4 	  	5 	1 	  	  	  	  	  	  	2 	1 	  	  	  	Aug. 2013
+Behrin 	  	  	Clansman 	Dwarf 	Paladin 	11 	  	  	Diplomat 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	??
+Battik 	  	  	Beardling 	Dwarf 	Paladin 	24 	Weaponsmith 	  	Diplomat 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	Aug. 2013
+Bolgur Glanest 	  	  	Clansman 	Dwarf 	Cleric 	25 	Blacksmith 	  	Diplomat 	  	  	  	1 	  	  	  	  	  	  	  	  	  	  	  	  	Jul. 2008
+Bombil Oakbottom 	  	(Warfeild's alt.) 	Clansman 	Dwarf 	Cleric 	1 	  	  	Diplomat 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	Aug. 1999
+Burkx Sledgehammer 	  	  	Clansman 	Dwarf 	Paladin 	22 	Armorsmith 	  	Diplomat 	  	1 	  	8 	2 	  	  	  	  	  	  	  	  	  	  	  	Jul. 2000
+Darodin Stoneforge 	  	  	Clansman 	Dwarf 	Paladin 	10 	  	  	Diplomat 	  	  	1 	  	1 	  	  	  	  	  	  	  	  	  	  	  	Jun. 2000
+Dergrim 	  	  	Clansman 	Dwarf 	Paladin 	1 	  	  	Diplomat 	  	  	  	  	  	  	  	  	3 	  	  	  	  	  	  	  	Jun. 2008
+Dikamek Skunkbane 	  	  	Clansman 	Dwarf 	Paladin 	13 	  	  	Diplomat 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	Sep. 1999
+Dillgaar 	  	  	Clansman 	Dwarf 	Shaman 	1 	  	  	Diplomat 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	Nov. 1999
+Droghos Runehew 	  	  	Clansman 	Dwarf 	Bard 	21 	Minerologist 	  	Diplomat 	  	  	  	4 	  	  	  	  	  	  	  	1 	  	  	  	  	Aug. 2013
+Falkor 	  	  	Beardling 	Dwarf 	Warrior 	10 	  	  	Diplomat 	  	  	  	  	1 	  	  	  	  	  	  	  	  	  	  	  	May. 2013
+Flitin 	  	  	Beardling 	Gnome 	Bard 	10 	  	  	Diplomat 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	Aug. 2013
+Galbug 	  	  	Beardling 	Dwarf 	Paladin 	10 	  	  	Diplomat 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	Oct. 2013
+Gimdal 	  	(Bolgur's alt.) 	Clansman 	Dwarf 	Bard 	17 	Carpenter 	  	Diplomat 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	Jul. 2008
+Grimbelly 	  	(Nurr's alt.) 	Clansman 	Dwarf 	Disciple 	13 	  	  	Diplomat 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	Sep. 2008
+Gunvrigd Svarslotr 	  	  	Clansman 	Dwarf 	Shaman 	1 	  	  	Diplomat 	  	1 	  	3 	1 	  	  	  	  	  	  	  	  	  	1 	  	Sep. 2013
+Halamur 	  	  	Clansman 	Dwarf 	Paladin 	24 	  	  	Diplomat 	  	  	  	  	  	  	  	  	2 	  	  	  	  	  	  	  	Sep. 1999
+Jebwick Bunknottin 	  	  	Clansman 	Gnome 	Bard 	11 	  	  	Diplomat 	  	1 	  	2 	  	  	  	  	  	  	  	  	  	  	  	  	Feb. 2006
+Keldo 	  	  	Clansman 	Gnome 	Disciple 	13 	  	  	Diplomat 	  	  	  	7 	  	  	1 	  	  	  	  	  	  	  	1 	  	Sep. 2013
+Khadric 	  	(Khazull's alt.) 	Clansman 	Dwarf 	Warrior 	11 	  	  	Diplomat 	  	  	  	2 	  	  	  	  	  	  	  	  	  	  	1 	  	Mar. 2001
+Khazull Miststalker 		  	Clansman 	Dwarf 	Rogue 	26 	  	  	Diplomat 	  	1 	  	17 	2 	  	1 	1 	  	  	10 	1 	  	  	4 	  	Mar. 2001
+Kinin 	  	(Krysp's alt.) 	Clansman 	Dwarf 	Psionicist 	33 	  	  	Diplomat 	  	1 	  	4 	  	  	1 	  	  	  	  	  	  	  	2 	  	Oct. 2001
+Kitiares 	  	  	Braidling 	Dwarf 	Cleric 	5 	  	  	Diplomat 	  	  	  	2 	  	  	1 	  	  	  	  	  	  	  	  	  	Sep. 2013
+Korlar 	  	(Galbug's alt.) 	Beardling 	Dwarf 	Druid 	22 	  	  	Diplomat 	  	  	  	1 	  	  	1 	  	  	  	  	  	  	  	  	  	Oct. 2013
+Kromden 	  	  	Clansman 	Dwarf 	Disciple 	21 	Artificer 	  	Diplomat 	  	  	  	4 	1 	  	  	  	3 	  	  	1 	  	  	  	  	Sep. 2008
+Krysp Stormchaser 	  	  	Clansman 	Dwarf 	Druid 	20 	Minerologist 	  	Diplomat 	  	2 	1 	10 	1 	  	  	  	  	  	  	1 	  	  	1 	  	Oct. 2001
+Kynyn 	  	(Krysp's alt.) 	Clansman 	Dwarf 	Shaman 	30 	Minerologist 	  	Diplomat 	  	1 	  	5 	1 	  	  	  	  	  	  	1 	  	  	5 	  	Oct. 2001
+Makku Karaduum 	  	  	Clansman 	Dwarf 	Necromancer 	2 	  	  	Diplomat 	  	  	1 	1 	1 	  	1 	  	  	  	  	  	  	  	  	  	Sep. 2013
+Morgged 	  	  	Clansman 	Gnome 	Psionicist 	8 	  	  	Diplomat 	  	  	  	  	  	  	  	  	3 	  	  	  	  	  	  	  	Feb. 2003
+Neltix 	  	(Olfri's alt.) 	Clansman 	Gnome 	Sorcerer 	10 	  	  	Diplomat 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	May. 2007
+Numli 	  	  	Clansman 	Dwarf 	Druid 	10 	  	  	Diplomat 	  	  	  	  	  	  	1 	  	  	  	  	  	  	  	  	  	Dec. 2007
+Nurr 	  	  	Clansman 	Dwarf 	Cleric 	11 	  	  	Diplomat 	  	  	  	1 	  	  	  	  	16 	  	  	  	  	  	  	  	Sep. 2008
+Ohrin 	  	  	Beardling 	Dwarf 	Psionicist 	1 	  	  	Diplomat 	  	  	  	1 	  	  	  	  	  	  	  	  	  	  	  	  	Oct. 2013
+Olfri Ironhand 	  	  	Clansman 	Dwarf 	Ranger 	47 	Carpenter 	  	Diplomat 	  	  	  	2 	  	  	  	  	  	  	  	  	1 	  	  	  	May. 2007
+Onnixx 	  	  	Clansman 	Dwarf 	Paladin 	13 	  	  	Diplomat 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	Dec. 1999
+Phrang 	  	  	Clansman 	Dwarf 	Sorcerer 	11 	  	  	Diplomat 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	Feb. 2005
+Rikh 	  	  	Clansman 	Dwarf 	Rogue 	34 	  	  	Diplomat 	  	  	  	5 	  	  	1 	  	  	  	  	  	  	  	  	  	Feb. 2006
+Scorpios Shieldren 	  	  	Beardling 	Dwarf 	Ranger 	9 	  	  	Diplomat 	  	  	  	1 	  	  	  	  	  	  	  	  	  	  	  	  	Oct. 2013
+Solagratia Solvatio 	  	  	Clansman 	Dwarf 	Dread Knight 	15 	  	  	Diplomat 	  	  	  	  	1 	  	  	  	  	  	  	  	  	  	  	  	Jun. 2002
+Strykar 	  	(Temirban's alt.) 	Beardling 	Dwarf 	Cleric 	11 	  	  	Diplomat 	  	  	  	  	1 	  	  	  	  	  	  	  	  	  	  	  	Sep. 2013
+Temriban 	  	  	Beardling 	Gnome 	Psionicist 	10 	  	  	Diplomat 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	Sep. 2013
+Thragrin 	  	(Rikh's alt.) 	Clansman 	Dwarf 	Monk 	34 	  	  	Diplomat 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	Feb. 2006
+Tocket 	  	(Morgged's alt.) 	Clansman 	Gnome 	Psionicist 	5 	  	  	Diplomat 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	Feb. 2003
+Tsalagi Nepheliad 	  	(Barzuln's alt.) 	Clansman 	Dwarf 	Bloodmage 	11 	  	  	Diplomat 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	Aug. 2013
+Turyion 	  	  	Clansman 	Dwarf 	Warrior 	30 	  	  	Diplomat 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	Mar. 2003
+Warfield 		  	Dwarf Lord 	Dwarf 	Paladin 	39 	Blacksmith 	11 	Diplomat 	14 	9 	10 	18 	2 	  	1 	  	77 	  	44 	2 	  	  	1 	  	Aug. 1999
+Wargan 	  	  	Clansman 	Dwarf 	Paladin 	10 	  	  	Diplomat 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	Jan. 2011
+Wargane 	  	(Wargan's alt.) 	Clansman 	Dwarf 	Disciple 	24 	  	  	Diplomat 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	Jan. 2011
